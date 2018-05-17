@@ -1,0 +1,243 @@
+[
+  {
+    "slug": "state-of-decay-2",
+    "pictureUrl":
+      "https://multimedia.bbycastatic.ca/multimedia/products/500x500/104/10439/10439922.jpg",
+    "name": "State of Decay 2",
+    "description":
+      "The dead have risen and civilization has fallen. Not even the military could stop the zombies, and now it's up to you to gather survivors and build a community with your friends in a post-apocalyptic world – a world where every decision matters, and where you define what it means to survive.",
+    "genre": ["RPG", "Survival", "Action"],
+    "platform": "Xbox One",
+    "price": 39.99,
+    "releaseDate": "2018-05-22T04:00:00Z"
+  },
+  {
+    "slug": "sea-of-thieves",
+    "pictureUrl":
+      "https://multimedia.bbycastatic.ca/multimedia/products/500x500/103/10380/10380483.jpg",
+    "name": "Sea of Thieves",
+    "description":
+      "A Shared-World Adventure Game that lets you be the pirate you’ve always dreamed of in a world of danger and discovery. Explore a vast ocean where every sail on the horizon means a ship filled with real players who may be friends or foes. Form a crew and voyage to treasure-filled islands, face legendary creatures and test your mettle in epic ship battles against other pirates.",
+    "genre": ["RPG", "Action", "Adventure"],
+    "platform": "Xbox One",
+    "price": 79.99,
+    "releaseDate": "2018-03-20T04:00:00Z"
+  },
+  {
+    "slug": "far-cry-5",
+    "pictureUrl":
+      "https://multimedia.bbycastatic.ca/multimedia/products/500x500/107/10737/10737836.jpg",
+    "name": "Far Cry 5",
+    "description":
+      "Far Cry comes to America in the latest installment of the award-winning franchise. Hope County, Montana, has been overrun by a fanatical doomsday cult – The Project at Eden’s Gate. Upon your arrival, you must spark the fires of resistance to liberate the community.",
+    "genre": ["Shooter", "Action"],
+    "platform": "Xbox One",
+    "price": 59.99,
+    "releaseDate": "2018-03-27T04:00:00Z"
+  },
+  {
+    "slug": "forza-motorsport-7",
+    "pictureUrl":
+      "https://multimedia.bbycastatic.ca/multimedia/products/500x500/107/10739/10739644.jpg",
+    "name": "Forza Motorsport 7",
+    "description":
+      "Experience the thrill of motorsport at the limit with the most comprehensive, beautiful and authentic racing game ever made. Enjoy gorgeous graphics at 60fps and true 4K resolution in HDR. Collect and race more than 700 cars, including the largest collection of Ferraris, Porsches, and Lamborghinis ever. Challenge yourself across 30 famous destinations and 200 ribbons, where race conditions can change every lap and every race.",
+    "genre": ["Racing"],
+    "platform": "Xbox One",
+    "price": 59.99,
+    "releaseDate": "2018-01-01T04:00:00Z"
+  },
+  {
+    "slug": "crackdown-3",
+    "pictureUrl":
+      "https://multimedia.bbycastatic.ca/multimedia/products/500x500/102/10295/10295254.jpg",
+    "name": "Crackdown 3",
+    "description":
+      "Time to step up your boom and stop crime as a super-powered Agent in Crackdown 3's sandbox of mayhem and destruction. Explore the heights of a futuristic city, race through the streets in a transforming vehicle, and use your powerful abilities to stop a ruthless criminal empire.",
+    "genre": ["Shooter", "RPG", "Action"],
+    "platform": "Xbox One",
+    "price": 79.99,
+    "releaseDate": "2018-12-31T04:00:00Z"
+  },
+  {
+    "slug": "halo-5-guardians",
+    "pictureUrl":
+      "https://multimedia.bbycastatic.ca/multimedia/products/500x500/102/10255/10255635.jpg",
+    "name": "Halo 5: Guardians",
+    "description":
+      "A mysterious and unstoppable force threatens the galaxy, the Master Chief is missing and his loyalty questioned. Experience the most dramatic Halo story to date in a 4-player cooperative epic that spans three worlds. Challenge friends and rivals in new multiplayer modes: Warzone, massive 24-player battles, and Arena, pure 4-vs-4 competitive combat.",
+    "genre": ["Shooter"],
+    "platform": "Xbox One",
+    "price": 34.99,
+    "releaseDate": "2015-10-27T04:00:00Z"
+  },
+  {
+    "slug": "call-of-duty-wwii",
+    "pictureUrl":
+      "https://multimedia.bbycastatic.ca/multimedia/products/500x500/106/10669/10669435.jpg",
+    "name": "Call of Duty: WWII",
+    "description":
+      "Land in Normandy on D-Day and battle across Europe through iconic locations in history’s most monumental war. Experience classic Call of Duty combat, the bonds of camaraderie, and the unforgiving nature of war against a global power throwing the world into tyranny.",
+    "genre": ["Shooter"],
+    "platform": "Xbox One",
+    "price": 79.99,
+    "releaseDate": "2017-11-03T04:00:00Z"
+  },
+  {
+    "slug": "nba-2k18",
+    "pictureUrl":
+      "https://multimedia.bbycastatic.ca/multimedia/products/500x500/115/11547/11547701.jpg",
+    "name": "NBA 2K18",
+    "description":
+      "The latest installment of this sports franchise, NBA 2K18 gives you more authenticity, more accuracy, and more freedom to build your team and career. A narrative-driven experience puts you at the helm of your NBA career as you construct a team, compete against the teams of other users, and explore the all-new open neighbourhood setting.",
+    "genre": ["Sport"],
+    "platform": "Xbox One",
+    "price": 39.99,
+    "releaseDate": "2017-09-19T04:00:00Z"
+  },
+  {
+    "slug": "fifa-18",
+    "pictureUrl":
+      "https://multimedia.bbycastatic.ca/multimedia/products/500x500/107/10747/10747786.jpg",
+    "name": "FIFA 18",
+    "description":
+      "Hit the pitch and play the beautiful game with brand new ways to play in both single player and multiplayer, you'll enjoy the world's most popular game with a new level of immersion. FIFA 18 features stunning visuals thanks to the Frostbite engine and all your favourite FIFA modes.",
+    "genre": ["Sport"],
+    "platform": "Xbox One",
+    "price": 49.99,
+    "releaseDate": "2017-09-27T04:00:00Z"
+  },
+  {
+    "slug": "tekken-7",
+    "pictureUrl":
+      "https://multimedia.bbycastatic.ca/multimedia/products/500x500/106/10667/10667606.jpg",
+    "name": "Tekken 7",
+    "description":
+      "Tekken 7 takes the franchise to the next level with photo-realistic graphics and new and innovative features and fighting mechanics, by resurrecting the attitude, competitiveness and showmanship rooted in its arcade DNA to provide the ultimate fighting game experience.",
+    "genre": ["Fighting"],
+    "platform": "Xbox One",
+    "price": 49.99,
+    "releaseDate": "2017-06-02T04:00:00Z"
+  },
+
+  {
+    "slug": "god-of-war",
+    "pictureUrl":
+      "https://multimedia.bbycastatic.ca/multimedia/products/500x500/104/10439/10439886.jpg",
+    "name": "God of War",
+    "description":
+      "It is a new beginning for Kratos. Living as a man, outside the shadow of the gods, he seeks solitude in the unfamiliar lands of Norse mythology. With new purpose and his son at his side, Kratos must fight for survival as powerful forces threaten to disrupt the new life he has created...",
+    "genre": ["RPG", "Action", "Adventure"],
+    "platform": "Playstation 4",
+    "price": 79.99,
+    "releaseDate": "2018-04-20T04:00:00Z"
+  },
+  {
+    "slug": "detroit-become-human",
+    "pictureUrl":
+      "https://multimedia.bbycastatic.ca/multimedia/products/500x500/104/10439/10439888.jpg",
+    "name": "Detroit: Become Human",
+    "description":
+      "Set in Detroit City during the year 2038 after the city has been revitalized by the invention and introduction of Androids into everyday life. But when Androids start behaving as if they are alive, events begin to spin out of control. As the player, you will embody several characters, amongst which KARA, CONNOR, and MARKUS. AsKara, you will witness your brave new world turn to chaos as you take on the role of a female service android trying to find her own place in a turbulent social landscape. Whilst you shape the branching narrative as Connor, an Android Cop employed by the human police force to seek out deviant Android such as Markus, a leader of the android group seeking freedom for his people, you will be making choices that will not only determine your own fate, but that of the entire city and possibly beyond. Discover what it really means to be human in a powerfully emotional journey made of choice and consequences.",
+    "genre": ["RPG", "Adventure"],
+    "platform": "Playstation 4",
+    "price": 79.99,
+    "releaseDate": "2018-05-25T04:00:00Z"
+  },
+  {
+    "slug": "far-cry-5",
+    "pictureUrl":
+      "https://multimedia.bbycastatic.ca/multimedia/products/500x500/107/10737/10737840.jpg",
+    "name": "Far Cry 5",
+    "description":
+      "Far Cry comes to America in the latest installment of the award-winning franchise. Hope County, Montana, has been overrun by a fanatical doomsday cult – The Project at Eden’s Gate. Upon your arrival, you must spark the fires of resistance to liberate the community.",
+    "genre": ["Shooter", "Action"],
+    "platform": "Playstation 4",
+    "price": 59.99,
+    "releaseDate": "2018-03-27T04:00:00Z"
+  },
+  {
+    "slug": "gran-turismo-sport",
+    "pictureUrl":
+      "https://multimedia.bbycastatic.ca/multimedia/products/500x500/104/10437/10437056.jpg",
+    "name": "Gran Turismo Sport",
+    "description":
+      "Feel the burn in the ultimate racing experience in your living room, serving up a robust system of FIA-certified online racing championships. Represent your country, build your garage, sharpen your skills, and take on the best in your class. You can also race offline or match up against your friends.",
+    "genre": ["Racing"],
+    "platform": "Playstation 4",
+    "price": 49.99,
+    "releaseDate": "2017-10-17T04:00:00Z"
+  },
+  {
+    "slug": "days-gone",
+    "pictureUrl":
+      "https://multimedia.bbycastatic.ca/multimedia/products/500x500/104/10439/10439887.jpg",
+    "name": "Days Gone",
+    "description":
+      "Do you remember how it all went down? Do you remember when living meant more than surviving? Days Gone is a post-apocalyptic survival game set in the wilderness of the Pacific Northwest, where you need to unravel the mystery of end of the world.",
+    "genre": ["Shooter", "RPG", "Survival"],
+    "platform": "Playstation 4",
+    "price": 79.99,
+    "releaseDate": "2019-12-31T04:00:00Z"
+  },
+  {
+    "slug": "killzone-shadows-fall",
+    "pictureUrl":
+      "https://multimedia.bbycastatic.ca/multimedia/products/500x500/124/12481/12481957.jpg",
+    "name": "Killzone Shadows Fall",
+    "description":
+      "Thirty years after the events of Killzone 3, the world is a very different place, with two rival factions, the Helghast and the Vektans, living side by side divided by a vast wall. In the midst of it all stands a Shadow Marshal, an elite soldier, the best of the best. As Shadow Marshal Lucas Kellan, you’re sworn to protect your home and the values you believe in.",
+    "genre": ["Shooter"],
+    "platform": "Playstation 4",
+    "price": 24.99,
+    "releaseDate": "2015-10-27T04:00:00Z"
+  },
+  {
+    "slug": "call-of-duty-wwii",
+    "pictureUrl":
+      "https://multimedia.bbycastatic.ca/multimedia/products/500x500/106/10669/10669438.jpg",
+    "name": "Call of Duty: WWII",
+    "description":
+      "Land in Normandy on D-Day and battle across Europe through iconic locations in history’s most monumental war. Experience classic Call of Duty combat, the bonds of camaraderie, and the unforgiving nature of war against a global power throwing the world into tyranny.",
+    "genre": ["Shooter"],
+    "platform": "Playstation 4",
+    "price": 79.99,
+    "releaseDate": "2017-11-03T04:00:00Z"
+  },
+  {
+    "slug": "nba-2k18",
+    "pictureUrl":
+      "https://multimedia.bbycastatic.ca/multimedia/products/500x500/115/11547/11547702.jpg",
+    "name": "NBA 2K18",
+    "description":
+      "The latest installment of this sports franchise, NBA 2K18 gives you more authenticity, more accuracy, and more freedom to build your team and career. A narrative-driven experience puts you at the helm of your NBA career as you construct a team, compete against the teams of other users, and explore the all-new open neighbourhood setting.",
+    "genre": ["Sport"],
+    "platform": "Playstation 4",
+    "price": 39.99,
+    "releaseDate": "2017-09-19T04:00:00Z"
+  },
+  {
+    "slug": "fifa-18",
+    "pictureUrl":
+      "https://multimedia.bbycastatic.ca/multimedia/products/500x500/107/10747/10747785.jpg",
+    "name": "FIFA 18",
+    "description":
+      "Hit the pitch and play the beautiful game with brand new ways to play in both single player and multiplayer, you'll enjoy the world's most popular game with a new level of immersion. FIFA 18 features stunning visuals thanks to the Frostbite engine and all your favourite FIFA modes.",
+    "genre": ["Sport"],
+    "platform": "Playstation 4",
+    "price": 49.99,
+    "releaseDate": "2017-09-27T04:00:00Z"
+  },
+  {
+    "slug": "street-fighter-30th-anniversary-collection",
+    "pictureUrl":
+      "https://multimedia.bbycastatic.ca/multimedia/products/500x500/122/12289/12289044.jpg",
+    "name": "Street Fighter 30th Anniversary Collection",
+    "description":
+      "Hadoken your way down memory lane with the Street Fighter 30th Anniversary Collection. This content-packed anthology includes 12 classic Street Fighter Titles plus a massive digital museum of character bios, sprites, key animations, and never before seen artwork.",
+    "genre": ["Fighting"],
+    "platform": "Playstation 4",
+    "price": 49.99,
+    "releaseDate": "2018-05-29T04:00:00Z"
+  }
+]
